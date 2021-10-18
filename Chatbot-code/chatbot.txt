@@ -1,0 +1,235 @@
+
+ A Web developer is a kind of programmer who specializes in the development of applications relating to the World Wide Web or distributed network applications, which typically run protocols like HTTP from a Web server to a client browser using associated programming languages like HTML/CSS, C#, Ruby and PHP to name a few. A Web developer is usually concerned with the back end or the programming aspect of creating a website or Web application and is not to be confused with a Web designer, who only deals with the aesthetics of a website or application, although many professionals have both skill sets.
+2- What are the tasks of the web developer?
+1-Prepare programming plans and maps
+2-Type the code required to run the site as required
+3-Test the work of symbols at each stage of development
+4-Detect and find solutions to code errors
+5-Following up on modern technologies and trying to  apply them in work projects
+6-Follow up the performance of the site after its launch and make adjustments and improvements continuously
+
+
+3-Whatbare the responsibilities of the web developer?
+1-Prepare programming plans and maps
+2-Type the code required to run the site as required
+3-Test the work of symbols at each stage of development
+4-Detect and find solutions to code errors
+5-Following up on modern technologies and trying to  apply them in work projects
+6-Follow up the performance of the site after its launch and make adjustments and improvements continuously
+
+
+4- What are the areas of work of the web developer?
+5-How to become a successful web developer?
+6-What are the skills of the web developer?
+  1-Programming
+ 2-Continuous learning
+3- Experimentation and testing
+4-Knowledge of design basics
+5-Understand common penetration methods
+6- Handle photos
+7-He web developer should learn to organize the time and good planning of the project
+8-Patience is another feature that a web developer should enjoy.
+7-How much are the salaries of a web developers ?
+Median Annual Salary: $69,430 ($33.38/hour)
+Top 10% Annual Salary: $124,480 ($59.84/hour)
+Bottom 10% Annual Salary: $37,930 ($18.23/hour
+
+ 8-What is the work environment for the web developer?
+9-How do I get a web developer job ?
+10-What career options are available to a web developer?
+11-what does the web developer do ?
+A Web Developer is responsible for programming the code that “tells” a website how to function.
+
+A web developer builds and maintains websites with the client and consumer in mind. That is, the end design must include products and services offered and show how users may access these. For example, a customer may want a form to capture an end user’s e-mail to request additional information, provide a newsletter, or thank a customer for their business.
+
+One type of developer may focus on setting up the back end of a site (back-end developer) while another may focus on the client side to add style and functionality to the website itself (front-end developer).
+
+The work is typically very project-focused and involves collaborating with a team of people who help coordinate the client's needs with the end product. Work may include meeting with clients to discuss their needs and requirements for a website or discuss how to keep their website functioning and up-to-date. Web developers typically construct the layout of a website, creating a visually interesting home page and user-friendly design, and may sometimes write content for the website. After a website is up and running, developers make sure that the site is functional on all web browsers, testing and updating as needed.
+12-How do I prepare myself to work as a web developer ?
+1-Learn HTMl, the basic language in building websites and electronic applications
+2-Choose a programming language there are a lot of programming languages used in the web domain (# java - PHP - python - asp.net and C)
+3-Learning the language of databases and database systems, programming languages generally deal with a single database language, SQL
+4-You should do some simple tasks like creating registration pages, logging in and out, commenting pages, adding articles), etc. to see the integration of the first three steps
+
+13-Wath steps do I need to follow to become a professional web developer ?
+1-Learn HTMl, the basic language in building websites and electronic applications
+2-Choose a programming language there are a lot of programming languages used in the web domain (# java - PHP - python - asp.net and C)
+3-Learning the language of databases and database systems, programming languages generally deal with a single database language, SQL
+4-You should do some simple tasks like creating registration pages, logging in and out, commenting pages, adding articles), etc. to see the integration of the first three steps
+14-What should I do to become a web developer?
+1-Learn HTMl, the basic language in building websites and electronic applications
+2-Choose a programming language there are a lot of programming languages used in the web domain (# java - PHP - python - asp.net and C)
+3-Learning the language of databases and database systems, programming languages generally deal with a single database language, SQL
+4-You should do some simple tasks like creating registration pages, logging in and out, commenting pages, adding articles), etc. to see the integration of the first three steps.
+15-What is the most important thing done by the web developer ?
+16-What skills should a web developer acquire ?
+17-What does Web Developer mean?
+A Web developer is a kind of programmer who specializes in the development of applications relating to the World Wide Web or distributed network applications, which typically run protocols like HTTP from a Web server to a client browser using associated programming languages like HTML/CSS, C#, Ruby and PHP to name a few. A Web developer is usually concerned with the back end or the programming aspect of creating a website or Web application and is not to be confused with a Web designer, who only deals with the aesthetics of a website or application, although many professionals have both skill sets.
+18-What is the workplace of a Web Developer like?
+A web developer may work full or part-time in a technology department or may choose to conduct business at home. Travel may be involved if a developer chooses to freelance. Some web developers freelance their skills to various organizations, while others choose to outsource their skills to organizations by using their expertise to act as consultants or independent contractors.
+19-What do I need to do to become a web developer?
+1-Learn HTMl, the basic language in building websites and electronic applications
+2-Choose a programming language there are a lot of programming languages used in the web domain (# java - PHP - python - asp.net and C)
+3-Learning the language of databases and database systems, programming languages generally deal with a single database language, SQL
+4-You should do some simple tasks like creating registration pages, logging in and out, commenting pages, adding articles), etc. to see the integration of the first three steps
+? 20-What are the Functional tasks of a web developer
+1-Prepare programming plans and maps
+2-Type the code required to run the site as required
+3-Test the work of symbols at each stage of development
+4-Detect and find solutions to code errors
+5-Following up on modern technologies and trying to  apply them in work projects
+6-Follow up the performance of the site after its launch and make adjustments and improvements continuously
+
+ 1- What is Software Engineering?
+Software engineering is the process of analyzing user needs and designing, constructing, and testing end user applications that will satisfy these needs through the use of software programming languages. It is the application of engineering principles to software development. In contrast to simple programming, software engineering is used for larger and more complex software systems, which are used as critical systems for businesses and organizations
+2- What are the tasks of the Software Engineering?
+3-Whatbare the responsibilities of the Software Engineering?
+1-Determines operational feasibility by evaluating analysis, problem definition, requirements, solution development, and proposed solutions
+
+2-Documents and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments and clear code.
+
+3-Prepares and installs solutions by determining and designing system specifications, standards, and programming
+
+4-Improves operations by conducting systems analysis; recommending changes in policies and procedures
+
+5-Obtains and licenses software by obtaining required information from vendors; recommending purchases; testing and approving products
+
+6-Updates job knowledge by studying state-of-the-art development tools, programming techniques, and computing equipment; participating in educational opportunities; reading professional publications; maintaining personal networks; participating in professional organizations
+
+7-Protects operations by keeping information confidential
+
+8-Provides information by collecting, analyzing, and summarizing development and service issues
+
+9-Accomplishes engineering and organization mission by completing related results as needed
+
+10-Develops software solutions by studying information needs; conferring with users; studying systems flow, data usage, and work processes; investigating problem areas; following the software development lifecycle.
+4- What are the areas of work of the Software Engineering?
+Some areas of software engineering work that are expected to suit the student of software engineering after completing his studies are :
+1-software engineer
+2-programs developer
+3-Computer Software Engineer
+4-Software Lab
+5-IT Project Manager
+6-Information Systems Analyst
+7-Specialized in information security protection
+8-Specialized in computer research
+9-programmer
+10-Computer Games Programmer
+11-Computer Games Designer
+12-IT Service Support Specialist
+13-Responsible for a website
+14-Responsible for a computer or network system
+15-Database Manager
+16-Research and development
+5-How to become a successful Software Engineering?
+  Define your goals and stick to them 1-
+
+There are many objectives that a programming engineer seeks: to work as a software developer in a large technology company, build a team and train, and of course the rewarding financial reward will be among your goals. Regardless of the details of your dream, if you want to reach it you must be committed to the goal of becoming a full-time software engineer.
+
+  practice and follow-up everything that is new 2-
+
+You should devote enough time every day or every week to learn what's new in programming, and certainly you can't become a software developer after 10 hours of training, some people say it takes 10,000 hours to become an expert but now you don't need to 10,000 hours of training to get your first job as a developer but you need to devote some time to learning.
+
+  3-Creating new ways to solve problems
+
+Problem solving is the most important skill for software developers, software development and software engineer work is mainly based on problem solving, without network and system problems you will not need programming engineers. That's why you should always discover problems and research ways to solve them in a scientific way. It doesn't matter which programming language or technology you use, and if you can't solve problems, you won't be good at software development.
+
+  4-Read books and see the research of others
+
+One of the things that helps you develop yourself as a reading programming engineer is continuous research, through research you can find out what the former to try to learn and research and develop it and add your own fingerprint
+6-What are the skills of the Software Engineering?
+1-Knowledge of computer systems and techniques
+2-Technical competence
+3-Ability to communicate with clients, colleagues and management to explain complex issues clearly and accurately
+4-Careful and orderly approach to work
+5-A logical and analytical approach to problems
+6-Accuracy and attention to detail
+7-Business skills and commercial awareness
+8-Ability to work either in a team or individually and manage your workload
+9-Career motivation and desire to continue to increase your knowledge and skills
+10-Ability to learn new skills and techniques quickly
+11-Awareness of current issues affecting industry and its technologies
+7-How much are the salaries of a Software Engineering ?
+Average annual salary for software engineers in technology companies, noting that this list includes basic salary, equity and remuneration.
+
+-Airbnb: The average salary for software engineers is $ 277,419 annually
+
+Apple: average salary for software engineers $ 185.314-
+
+  -Google: average salary for software engineers $ 202,818.
+
+  -Microsoft: average salary for software engineers $ 143,858.
+
+  -Twitter: The average salary for software engineers is $ 200,042.
+
+-Facebook: Average Salary for Software Engineers $ 224.003
+
+  -Dropbox: The average salary for software engineers is $ 250,068
+
+  -Snapchat: average salary for software engineers $ 243,915.
+
+  -Tesla: average salary for software engineers $ 140,625
+
+  -Amazon: average salary for software engineers $ 134.608
+
+  -IBM: Average salary for software engineers $ 119.268
+
+ 8-What is the work environment for the Software Engineering?
+Computer software engineers typically work in well-lit offices in comfortable surroundings or in computer laboratories. Most work at least 40 hours a week, but due to the project-oriented nature of the work, they may also have to work evenings and weekends to meet deadlines or solve unexpected technical problems .
+9-How do I get a Software Engineering  job ?
+10-What career options are available to a Software Engineering?
+1-software engineer
+2-programs developer
+3-Computer Software Engineer
+4-Software Lab
+5-IT Project Manager
+6-Information Systems Analyst
+7-Specialized in information security protection
+8-Specialized in computer research
+9-programmer
+10-Computer Games Programmer
+11-Computer Games Designer
+12-IT Service Support Specialist
+13-Responsible for a website
+14-Responsible for a computer or network system
+15-Database Manager
+16-Research and development
+11-what does the Software Engineering do ?
+12-How do I prepare myself to work as a Software Engineering?
+1-Learn to code(Java ,C++ , Python ,C#...)
+ 2-Work on a few personal projects
+  3-Get your first programming job or internship
+ 4-Learn data structures and algorithms
+ 5-Prepare for coding interviews
+  6-Apply, apply, and apply again
+13-Wath steps do I need to follow to become a professional Software Engineering ?
+1-Earn a degree in computer science or a related field. Most software engineer positions require a bachelor's degree
+2-Begin programming
+3-Study data structures and algorithms
+4-Supplement your studies
+5-Build software
+6-Seek an internship
+7-Find job opportunities
+8-Consider your career goal
+14-What should I do to become a Software Engineering?
+1-Earn a degree in computer science or a related field. Most software engineer positions require a bachelor's degree
+2-Begin programming
+3-Study data structures and algorithms
+4-Supplement your studies
+5-Build software
+6-Seek an internship
+7-Find job opportunities
+8-Consider your career goal
+15-What is the most important thing done by the Software Engineering?
+16-What are the skills that you must be in a Software Engineering   ?
+1-Knowledge of computer systems and techniques
+2-Technical competence
+3-Ability to communicate with clients, colleagues and management to explain complex issues clearly and accurately
+4-Careful and orderly approach to work
+5-A logical and analytical approach to problems
+6-Accuracy and attention to detail
+7-Business skills and commercial awareness
+8-Ability to work either in a team or individually and manage your workload
+9-Career motivation and desire to continue to increase your knowledge and skills
+10-Ability to learn new skills and techniques quickly
+11-Awareness of current issues affecting industry and its technologies
